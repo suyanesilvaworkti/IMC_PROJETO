@@ -1,0 +1,1 @@
+Este projeto é uma aplicação simples e interativa desenvolvida para calcular o Índice de Massa Corporal (IMC), ajudando o usuário a identificar se está dentro do peso ideal de acordo com a Organização Mundial da Saúde (OMS).
